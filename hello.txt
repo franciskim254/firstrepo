@@ -1,0 +1,4 @@
+this is the hello world of file handling
+hey kim
+officially appended 
+we doing good so far
